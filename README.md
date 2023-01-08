@@ -1,6 +1,7 @@
 # pomodoro
 
-A new Flutter project.
+This is a pomodoro app made with flutter code
+This is just a practice of stateful widget on flutter
 
 ## Getting Started
 
